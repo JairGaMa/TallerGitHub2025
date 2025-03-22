@@ -26,7 +26,7 @@ Este repositorio contiene los materiales y ejemplos utilizados en el Taller de G
     * **Creación de una rama llamada boton**
     * **Creación archivo para darle funcion al boton y desplegarlo en la rama**
 
-### Tercera sesión: 15/03/2025
+### Tercera sesión: 16/03/2025
 
 * **Despliegue de página y manejo de ramas:**
     * **Manejo de ramas y unificacion de ellas**

@@ -18,6 +18,13 @@ Este repositorio contiene los materiales y ejemplos utilizados en el Taller de G
 * **Subida de los primeros elementos a GitHub:**
     * Página web de ejemplo.
 
+### SEgunda sesión: 15/03/2025
+
+* **Comits y otros elementos de git:**
+    * **Creación de un archivo README.md para el proyecto**
+    * **Estados: Untracket, Unmofied, Modified, Staged**
+    * **Creación de una rama llamada boton**
+    * **Creación archivo para darle funcion al boton y desplegarlo en la rama**
 
 ## Contacto
 

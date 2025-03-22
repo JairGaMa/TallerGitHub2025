@@ -18,7 +18,7 @@ Este repositorio contiene los materiales y ejemplos utilizados en el Taller de G
 * **Subida de los primeros elementos a GitHub:**
     * Página web de ejemplo.
 
-### SEgunda sesión: 15/03/2025
+### Segunda sesión: 15/03/2025
 
 * **Comits y otros elementos de git:**
     * **Creación de un archivo README.md para el proyecto**
@@ -26,6 +26,13 @@ Este repositorio contiene los materiales y ejemplos utilizados en el Taller de G
     * **Creación de una rama llamada boton**
     * **Creación archivo para darle funcion al boton y desplegarlo en la rama**
 
+### Tercera sesión: 15/03/2025
+
+* **Despliegue de página y manejo de ramas:**
+    * **Manejo de ramas y unificacion de ellas**
+    * **Se desplego el sitio y se sincroniza con los cambios que tenga en github**
+ 
+      
 ## Contacto
 
 * GaMa
